@@ -26,8 +26,8 @@ on:
 #    - cron: 5 16 */25 * *
 #          分 时 日 月 周5
    - cron: 43 19 * * 4
-#  watch:
-#    types: started
+  watch:
+    types: started
 
 env:
   REPO_URL: https://github.com/coolsnowwolf/lede
