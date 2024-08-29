@@ -25,7 +25,7 @@ on:
   schedule:
 #    - cron: 5 16 */25 * *
 #          分 时 日 月 周5
-   - cron: 43 19 * * 4
+   - cron: 39 20 * * 4
   watch:
     types: started
 
